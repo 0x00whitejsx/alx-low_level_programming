@@ -4,7 +4,7 @@
 /**
 * main - function the print the argument pass into the main
 * @argc: number of command line argument
-* @argc: Array names
+* @argv: Array names
 * Return: succesfull
 */
 int main(int argc, char *argv[])
