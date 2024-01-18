@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-* main - function the print the argument pass into the main 
+* main - function the print the argument pass into the main
 * @argc: number of command line argument
 * @argc: Array names
 * Return: succesfull
